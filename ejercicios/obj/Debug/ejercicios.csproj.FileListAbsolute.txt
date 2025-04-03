@@ -1,0 +1,11 @@
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.csproj.GenerateResource.cache
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.pdb
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.Form1.resources
+C:\Users\UPN\Documents\ED\ED_1\ejercicios\obj\Debug\ejercicios.FrmListaSimple.resources
