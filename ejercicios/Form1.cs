@@ -27,5 +27,17 @@ namespace ejercicios
             FrmListaSimple fls = new FrmListaSimple();
             fls.ShowDialog(this);
         }
+
+        private void listaEnlazadaCircularToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListaCircular flc = new FrmListaCircular();
+            flc.ShowDialog(this);
+        }
+
+        private void listaEnlazadaDobleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListaDoble fld = new FrmListaDoble();
+            fld.ShowDialog(this);
+        }
     }
 }

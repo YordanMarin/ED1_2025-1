@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\",
+  "WorkspaceRootPath": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed_1\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed_1\\ejercicios\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed_1\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +30,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmListaSimple.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\FrmListaSimple.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmListaSimple.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\FrmListaSimple.cs",
-              "RelativeToolTip": "ejercicios\\FrmListaSimple.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAArwC8AAAAZAAAAAAAAAA==",
+              "Title": "FrmListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
+              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:57:29.641Z",
+              "WhenOpened": "2025-04-10T13:57:31.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListaSimple.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\clases\\ListaSimple.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\ListaSimple.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\clases\\ListaSimple.cs",
-              "RelativeToolTip": "ejercicios\\clases\\ListaSimple.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwF4AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmListaDoble.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:35:22.718Z",
+              "WhenOpened": "2025-04-10T13:57:29.595Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\ListaDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
+              "RelativeToolTip": "ejercicios\\clases\\ListaDoble.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA2wEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:43:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\NodoDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
+              "RelativeToolTip": "ejercicios\\clases\\NodoDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:41:27.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\clases\\Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\clases\\Nodo.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
               "RelativeToolTip": "ejercicios\\clases\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T13:46:10.315Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\Form1.cs",
-              "RelativeToolTip": "ejercicios\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:32:12.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmListaSimple.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\FrmListaSimple.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmListaSimple.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:24:51.623Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED_1\\ejercicios\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:14:32.814Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
