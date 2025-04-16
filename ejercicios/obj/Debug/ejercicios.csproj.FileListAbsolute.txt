@@ -22,3 +22,17 @@ C:\Users\yor_d\OneDrive\Documentos\ED1-2025\ED1_2025-1\ejercicios\obj\Debug\ejer
 C:\Users\yor_d\OneDrive\Documentos\ED1-2025\ED1_2025-1\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
 C:\Users\yor_d\OneDrive\Documentos\ED1-2025\ED1_2025-1\ejercicios\obj\Debug\ejercicios.exe
 C:\Users\yor_d\OneDrive\Documentos\ED1-2025\ED1_2025-1\ejercicios\obj\Debug\ejercicios.pdb
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.Form1.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmListaCircular.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmListaDoble.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmListaDobleAnalisis.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmListaSimple.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.csproj.GenerateResource.cache
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.pdb

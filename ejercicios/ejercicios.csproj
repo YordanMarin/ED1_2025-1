@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="clases\ListaCircular.cs" />
     <Compile Include="clases\ListaDoble.cs" />
+    <Compile Include="clases\ListaDobleAnalisis.cs" />
     <Compile Include="clases\ListaSimple.cs" />
     <Compile Include="clases\Nodo.cs" />
     <Compile Include="clases\NodoDoble.cs" />
@@ -69,6 +70,12 @@
     <Compile Include="FrmListaDoble.Designer.cs">
       <DependentUpon>FrmListaDoble.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmListaDobleAnalisis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaDobleAnalisis.Designer.cs">
+      <DependentUpon>FrmListaDobleAnalisis.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmListaSimple.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmListaDoble.resx">
       <DependentUpon>FrmListaDoble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaDobleAnalisis.resx">
+      <DependentUpon>FrmListaDobleAnalisis.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmListaSimple.resx">
       <DependentUpon>FrmListaSimple.cs</DependentUpon>

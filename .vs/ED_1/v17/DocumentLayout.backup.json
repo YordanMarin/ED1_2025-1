@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\",
+  "WorkspaceRootPath": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\escritorio\\ed\\ed1_2025-1\\ejercicios\\clases\\listadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\documentos\\ed1-2025\\ed1_2025-1\\ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\escritorio\\ed\\ed1_2025-1\\ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\escritorio\\ed\\ed1_2025-1\\ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\yor_d\\onedrive\\escritorio\\ed\\ed1_2025-1\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,66 +58,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmListaDoble.cs",
-              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
-              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
-              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA7wBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:57:31.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmListaDoble.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
-              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:57:29.595Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ListaDoble.cs",
-              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\ListaDoble.cs",
-              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\ListaDoble.cs",
               "RelativeToolTip": "ejercicios\\clases\\ListaDoble.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA2wEAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T13:43:17.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NodoDoble.cs",
-              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\NodoDoble.cs",
-              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
-              "RelativeToolTip": "ejercicios\\clases\\NodoDoble.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmListaDobleAnalisis.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDobleAnalisis.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaDobleAnalisis.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDobleAnalisis.cs",
+              "RelativeToolTip": "ejercicios\\FrmListaDobleAnalisis.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:41:27.419Z",
+              "WhenOpened": "2025-04-16T01:31:49.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\Nodo.cs",
-              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Documentos\\ED1-2025\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
-              "RelativeToolTip": "ejercicios\\clases\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ListaDobleAnalisis.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "RelativeToolTip": "ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:46:10.315Z",
+              "WhenOpened": "2025-04-16T01:16:56.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListaDobleAnalisis.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDobleAnalisis.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaDobleAnalisis.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDobleAnalisis.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmListaDobleAnalisis.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T01:03:17.512Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListaDoble.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T01:02:27.11Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\NodoDoble.cs",
+              "ToolTip": "C:\\Users\\yor_d\\OneDrive\\Escritorio\\ED\\ED1_2025-1\\ejercicios\\clases\\NodoDoble.cs",
+              "RelativeToolTip": "ejercicios\\clases\\NodoDoble.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:41:27.419Z",
               "EditorCaption": ""
             }
           ]

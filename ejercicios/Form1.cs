@@ -39,5 +39,11 @@ namespace ejercicios
             FrmListaDoble fld = new FrmListaDoble();
             fld.ShowDialog(this);
         }
+
+        private void listaEnlazadaDobleAnálisisToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListaDobleAnalisis flda = new FrmListaDobleAnalisis();
+            flda.ShowDialog(this);
+        }
     }
 }
