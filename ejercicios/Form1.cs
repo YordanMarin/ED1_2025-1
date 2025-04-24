@@ -45,5 +45,11 @@ namespace ejercicios
             FrmListaDobleAnalisis flda = new FrmListaDobleAnalisis();
             flda.ShowDialog(this);
         }
+
+        private void pilaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmPila fp = new FrmPila();
+            fp.ShowDialog(this);
+        }
     }
 }
