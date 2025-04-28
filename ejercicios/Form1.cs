@@ -51,5 +51,11 @@ namespace ejercicios
             FrmPila fp = new FrmPila();
             fp.ShowDialog(this);
         }
+
+        private void pilaYListaSimpleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmPilaListaSimple fpl = new FrmPilaListaSimple();
+            fpl.ShowDialog(this);
+        }
     }
 }

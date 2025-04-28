@@ -64,5 +64,10 @@ namespace ejercicios.clases
             cima = null;
             cantidad = 0;
         }
+
+        public bool EstaVacio()
+        {
+            return cima == null;
+        }
     }
 }
