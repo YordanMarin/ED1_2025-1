@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clases\Cola.cs" />
     <Compile Include="clases\ListaCircular.cs" />
     <Compile Include="clases\ListaDoble.cs" />
     <Compile Include="clases\ListaDobleAnalisis.cs" />
@@ -59,6 +60,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCola.Designer.cs">
+      <DependentUpon>FrmCola.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmListaCircular.cs">
       <SubType>Form</SubType>
@@ -100,6 +107,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCola.resx">
+      <DependentUpon>FrmCola.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmListaCircular.resx">
       <DependentUpon>FrmListaCircular.cs</DependentUpon>
