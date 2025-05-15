@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmarbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmarbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmarbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmarbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\clases\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\clases\\nodoab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodoab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmCola.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmCola.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmCola.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmCola.cs",
-              "RelativeToolTip": "ejercicios\\FrmCola.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwCwAAAANAAAAAAAAAA==",
+              "Title": "frmArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\frmArbolBinario.cs",
+              "RelativeDocumentMoniker": "ejercicios\\frmArbolBinario.cs",
+              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\frmArbolBinario.cs",
+              "RelativeToolTip": "ejercicios\\frmArbolBinario.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:17:16.2Z",
+              "WhenOpened": "2025-05-15T13:16:22.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cola.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\Cola.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\Cola.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\Cola.cs",
-              "RelativeToolTip": "ejercicios\\clases\\Cola.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCIAAABHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NodoAB.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\NodoAB.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\NodoAB.cs",
+              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\NodoAB.cs",
+              "RelativeToolTip": "ejercicios\\clases\\NodoAB.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T12:48:24.953Z",
+              "WhenOpened": "2025-05-15T12:57:26.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmCola.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmCola.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmCola.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmCola.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmCola.cs [Dise\u00F1o]",
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\ArbolBinario.cs",
+              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\ArbolBinario.cs",
+              "RelativeToolTip": "ejercicios\\clases\\ArbolBinario.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T12:41:54.049Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-15T12:50:07.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\Nodo.cs",
-              "RelativeToolTip": "ejercicios\\clases\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmArbolBinario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\frmArbolBinario.cs",
+              "RelativeDocumentMoniker": "ejercicios\\frmArbolBinario.cs",
+              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\frmArbolBinario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\frmArbolBinario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:56:57.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:38:58.534Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
