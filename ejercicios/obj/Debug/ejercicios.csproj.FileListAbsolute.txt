@@ -56,3 +56,4 @@ C:\Users\yor_d\OneDrive\Escritorio\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios
 C:\Users\UPN\Documents\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmCola.resources
 C:\Users\UPN\Documents\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmPilaListaSimple.resources
 C:\Users\UPN\Documents\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.frmArbolBinario.resources
+C:\Users\UPN\Documents\ED\ED1_2025-1\ejercicios\obj\Debug\ejercicios.FrmArbolbinarioBusqueda.resources

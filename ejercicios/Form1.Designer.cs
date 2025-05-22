@@ -40,6 +40,7 @@
             this.pilaYListaSimpleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.colaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.arbolBinarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.arlbolBinarioDeBusquedaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,7 +83,8 @@
             this.pilaToolStripMenuItem,
             this.pilaYListaSimpleToolStripMenuItem,
             this.colaToolStripMenuItem,
-            this.arbolBinarioToolStripMenuItem});
+            this.arbolBinarioToolStripMenuItem,
+            this.arlbolBinarioDeBusquedaToolStripMenuItem});
             this.operacionesToolStripMenuItem.Name = "operacionesToolStripMenuItem";
             this.operacionesToolStripMenuItem.Size = new System.Drawing.Size(117, 25);
             this.operacionesToolStripMenuItem.Text = "Operaciones";
@@ -143,6 +145,13 @@
             this.arbolBinarioToolStripMenuItem.Text = "Arbol binario";
             this.arbolBinarioToolStripMenuItem.Click += new System.EventHandler(this.arbolBinarioToolStripMenuItem_Click);
             // 
+            // arlbolBinarioDeBusquedaToolStripMenuItem
+            // 
+            this.arlbolBinarioDeBusquedaToolStripMenuItem.Name = "arlbolBinarioDeBusquedaToolStripMenuItem";
+            this.arlbolBinarioDeBusquedaToolStripMenuItem.Size = new System.Drawing.Size(297, 26);
+            this.arlbolBinarioDeBusquedaToolStripMenuItem.Text = "Arlbol binario de busqueda";
+            this.arlbolBinarioDeBusquedaToolStripMenuItem.Click += new System.EventHandler(this.arlbolBinarioDeBusquedaToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -177,6 +186,7 @@
         private System.Windows.Forms.ToolStripMenuItem pilaYListaSimpleToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem colaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem arbolBinarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem arlbolBinarioDeBusquedaToolStripMenuItem;
     }
 }
 
