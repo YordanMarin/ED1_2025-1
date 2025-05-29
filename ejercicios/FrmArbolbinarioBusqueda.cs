@@ -45,5 +45,34 @@ namespace ejercicios
             ab.inorden(raiz, textIn);
             ab.postorden(raiz, textPost);
         }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(textNumero.Text, out int num))
+            {
+                if (ab.buscar(raiz, num) != null)
+                    MessageBox.Show($"El número {num} existe");
+                else MessageBox.Show($"El número {num} no existe");
+            }
+            else MessageBox.Show("Solo permiten números enteros");
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(textNumero.Text, out int num))
+            {
+                if (ab.buscar(raiz, num) != null)
+                {
+                    raiz = ab.eliminar(raiz, num);
+                    treeView1.Nodes.Clear();
+                    ab.mostrar(raiz, treeView1, null);
+                    treeView1.ExpandAll();
+                    textNumero.Clear();
+                }
+                    
+                else MessageBox.Show($"El número {num} no existe");
+            }
+            else MessageBox.Show("Solo permiten números enteros");
+        }
     }
 }
