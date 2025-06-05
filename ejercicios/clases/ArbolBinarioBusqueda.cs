@@ -63,5 +63,44 @@ namespace ejercicios.clases
             postorden(actual.derecho, text);
             text.Text += actual.numero.ToString() + " ";
         }
+
+        public NodoAB buscar(NodoAB actual, int num)
+        {
+            if (actual == null) return null;
+
+            if (num == actual.numero) return actual;
+            else if(num < actual.numero)
+                return buscar(actual.izquierda, num);
+            else
+                return buscar(actual.derecho, num);
+        }
+
+        public NodoAB eliminar(NodoAB actual, int num)
+        {
+            if (actual == null) return null;
+
+            if (num < actual.numero)
+                return eliminar(actual.izquierda, num);
+            else if (num > actual.numero)
+                return eliminar(actual.derecho, num);
+            else
+            {
+                if (actual.izquierda == null) return actual.derecho;
+                if (actual.derecho == null) return actual.izquierda;
+
+                NodoAB sucesor = minimo(actual.derecho);
+
+                actual.numero = sucesor.numero;
+                actual.derecho = eliminar(actual.derecho, sucesor.numero);
+            }
+            return actual;
+        }
+
+        public NodoAB minimo(NodoAB actual)
+        {
+            while (actual.izquierda != null)
+                actual = actual.izquierda;
+            return actual;
+        }
     }
 }

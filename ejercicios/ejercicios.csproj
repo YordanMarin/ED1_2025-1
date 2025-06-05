@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="clases\ArbolBinario.cs" />
     <Compile Include="clases\ArbolBinarioBusqueda.cs" />
+    <Compile Include="clases\ArbolBinarioBusqueda3.cs" />
     <Compile Include="clases\Cola.cs" />
     <Compile Include="clases\ListaCircular.cs" />
     <Compile Include="clases\ListaDoble.cs" />
@@ -63,6 +64,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmABB3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmABB3.Designer.cs">
+      <DependentUpon>FrmABB3.cs</DependentUpon>
     </Compile>
     <Compile Include="frmArbolBinario.cs">
       <SubType>Form</SubType>
@@ -122,6 +129,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmABB3.resx">
+      <DependentUpon>FrmABB3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmArbolBinario.resx">
       <DependentUpon>frmArbolBinario.cs</DependentUpon>
