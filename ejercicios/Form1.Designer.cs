@@ -42,6 +42,7 @@
             this.arbolBinarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.arlbolBinarioDeBusquedaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.arbolBinarioDeBusqueda3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.grafoMatrizAdyacenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,7 +71,7 @@
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(114, 26);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
@@ -86,7 +87,8 @@
             this.colaToolStripMenuItem,
             this.arbolBinarioToolStripMenuItem,
             this.arlbolBinarioDeBusquedaToolStripMenuItem,
-            this.arbolBinarioDeBusqueda3ToolStripMenuItem});
+            this.arbolBinarioDeBusqueda3ToolStripMenuItem,
+            this.grafoMatrizAdyacenciaToolStripMenuItem});
             this.operacionesToolStripMenuItem.Name = "operacionesToolStripMenuItem";
             this.operacionesToolStripMenuItem.Size = new System.Drawing.Size(117, 25);
             this.operacionesToolStripMenuItem.Text = "Operaciones";
@@ -161,6 +163,13 @@
             this.arbolBinarioDeBusqueda3ToolStripMenuItem.Text = "Arbol binario de Busqueda 3";
             this.arbolBinarioDeBusqueda3ToolStripMenuItem.Click += new System.EventHandler(this.arbolBinarioDeBusqueda3ToolStripMenuItem_Click);
             // 
+            // grafoMatrizAdyacenciaToolStripMenuItem
+            // 
+            this.grafoMatrizAdyacenciaToolStripMenuItem.Name = "grafoMatrizAdyacenciaToolStripMenuItem";
+            this.grafoMatrizAdyacenciaToolStripMenuItem.Size = new System.Drawing.Size(297, 26);
+            this.grafoMatrizAdyacenciaToolStripMenuItem.Text = "Grafo matriz adyacencia";
+            this.grafoMatrizAdyacenciaToolStripMenuItem.Click += new System.EventHandler(this.grafoMatrizAdyacenciaToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -197,6 +206,7 @@
         private System.Windows.Forms.ToolStripMenuItem arbolBinarioToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem arlbolBinarioDeBusquedaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem arbolBinarioDeBusqueda3ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem grafoMatrizAdyacenciaToolStripMenuItem;
     }
 }
 

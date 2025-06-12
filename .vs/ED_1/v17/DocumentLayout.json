@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmabb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmabb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\clases\\grafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\grafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\frmabb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmabb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\frmgrafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\documents\\ed\\ed1_2025-1\\ejercicios\\clases\\arbolbinariobusqueda3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\arbolbinariobusqueda3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\frmgrafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafomatrizadyacencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmABB3.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmABB3.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmABB3.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmABB3.cs",
-              "RelativeToolTip": "ejercicios\\FrmABB3.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAhwEgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmGrafoMatrizAdyacencia.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "RelativeToolTip": "ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:49:52.987Z",
+              "WhenOpened": "2025-06-12T13:17:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrafoMatrizAdyacencia.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\clases\\GrafoMatrizAdyacencia.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\GrafoMatrizAdyacencia.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\clases\\GrafoMatrizAdyacencia.cs",
+              "RelativeToolTip": "ejercicios\\clases\\GrafoMatrizAdyacencia.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:52:58.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArbolBinarioBusqueda3.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\ArbolBinarioBusqueda3.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\ArbolBinarioBusqueda3.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\clases\\ArbolBinarioBusqueda3.cs",
-              "RelativeToolTip": "ejercicios\\clases\\ArbolBinarioBusqueda3.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAswFAAAAAJAAAAAAAAAA==",
+              "Title": "FrmGrafoMatrizAdyacencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoMatrizAdyacencia.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoMatrizAdyacencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmGrafoMatrizAdyacencia.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:48:42.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmABB3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmABB3.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmABB3.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\ED\\ED1_2025-1\\ejercicios\\FrmABB3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmABB3.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:31:59.214Z",
+              "WhenOpened": "2025-06-12T12:39:36.779Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

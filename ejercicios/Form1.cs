@@ -81,5 +81,11 @@ namespace ejercicios
             FrmABB3 fab3 = new FrmABB3();
             fab3.ShowDialog(this);
         }
+
+        private void grafoMatrizAdyacenciaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmGrafoMatrizAdyacencia gma = new FrmGrafoMatrizAdyacencia();
+            gma.ShowDialog(this);
+        }
     }
 }
