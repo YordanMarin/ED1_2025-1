@@ -93,5 +93,11 @@ namespace ejercicios
             FrmGrafoDijsktra g = new FrmGrafoDijsktra();
             g.ShowDialog(this);
         }
+
+        private void grafoFloyWarshallToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmGrafoFloyd g = new frmGrafoFloyd();
+            g.ShowDialog(this);
+        }
     }
 }

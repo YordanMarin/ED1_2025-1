@@ -44,6 +44,8 @@
             this.arbolBinarioDeBusqueda3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.grafoMatrizAdyacenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.grafoDijsktraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.grafoFloyWarshallToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.grafoPRIMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -90,7 +92,9 @@
             this.arlbolBinarioDeBusquedaToolStripMenuItem,
             this.arbolBinarioDeBusqueda3ToolStripMenuItem,
             this.grafoMatrizAdyacenciaToolStripMenuItem,
-            this.grafoDijsktraToolStripMenuItem});
+            this.grafoDijsktraToolStripMenuItem,
+            this.grafoFloyWarshallToolStripMenuItem,
+            this.grafoPRIMToolStripMenuItem});
             this.operacionesToolStripMenuItem.Name = "operacionesToolStripMenuItem";
             this.operacionesToolStripMenuItem.Size = new System.Drawing.Size(143, 32);
             this.operacionesToolStripMenuItem.Text = "Operaciones";
@@ -179,6 +183,19 @@
             this.grafoDijsktraToolStripMenuItem.Text = "Grafo Dijsktra";
             this.grafoDijsktraToolStripMenuItem.Click += new System.EventHandler(this.grafoDijsktraToolStripMenuItem_Click);
             // 
+            // grafoFloyWarshallToolStripMenuItem
+            // 
+            this.grafoFloyWarshallToolStripMenuItem.Name = "grafoFloyWarshallToolStripMenuItem";
+            this.grafoFloyWarshallToolStripMenuItem.Size = new System.Drawing.Size(368, 32);
+            this.grafoFloyWarshallToolStripMenuItem.Text = "Grafo Floy-Warshall";
+            this.grafoFloyWarshallToolStripMenuItem.Click += new System.EventHandler(this.grafoFloyWarshallToolStripMenuItem_Click);
+            // 
+            // grafoPRIMToolStripMenuItem
+            // 
+            this.grafoPRIMToolStripMenuItem.Name = "grafoPRIMToolStripMenuItem";
+            this.grafoPRIMToolStripMenuItem.Size = new System.Drawing.Size(368, 32);
+            this.grafoPRIMToolStripMenuItem.Text = "Grafo PRIM";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -217,6 +234,8 @@
         private System.Windows.Forms.ToolStripMenuItem arbolBinarioDeBusqueda3ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem grafoMatrizAdyacenciaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem grafoDijsktraToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem grafoFloyWarshallToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem grafoPRIMToolStripMenuItem;
     }
 }
 

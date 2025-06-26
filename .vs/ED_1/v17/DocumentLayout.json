@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\",
+  "WorkspaceRootPath": "C:\\ED\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\clases\\grafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\grafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\clases\\grafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\grafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\frmgrafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\frmgrafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafodijsktra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\ed1_2025-1\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmGrafoDijsktra.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoDijsktra.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoDijsktra.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoDijsktra.cs",
-              "RelativeToolTip": "ejercicios\\FrmGrafoDijsktra.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAvwDIAAAAhAAAAAAAAAA==",
+              "Title": "frmGrafoFloyd.cs",
+              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
+              "RelativeDocumentMoniker": "ejercicios\\frmGrafoFloyd.cs",
+              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
+              "RelativeToolTip": "ejercicios\\frmGrafoFloyd.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAApwDkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T13:06:28.423Z",
+              "WhenOpened": "2025-06-26T13:01:22.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GrafoDijsktra.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\clases\\GrafoDijsktra.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\GrafoDijsktra.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\clases\\GrafoDijsktra.cs",
-              "RelativeToolTip": "ejercicios\\clases\\GrafoDijsktra.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAIAAAAAAAAAA==",
+              "Title": "GrafoFloyd.cs",
+              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\clases\\GrafoFloyd.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\GrafoFloyd.cs",
+              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\clases\\GrafoFloyd.cs",
+              "RelativeToolTip": "ejercicios\\clases\\GrafoFloyd.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:53:58.627Z",
+              "WhenOpened": "2025-06-26T12:25:27.218Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\Form1.cs",
-              "RelativeToolTip": "ejercicios\\Form1.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:52:18.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:51:59.899Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmGrafoDijsktra.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoDijsktra.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoDijsktra.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\ED1_2025-1\\ejercicios\\FrmGrafoDijsktra.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmGrafoDijsktra.cs [Dise\u00F1o]",
+              "Title": "frmGrafoFloyd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
+              "RelativeDocumentMoniker": "ejercicios\\frmGrafoFloyd.cs",
+              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\frmGrafoFloyd.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:45:20.156Z",
+              "WhenOpened": "2025-06-26T12:23:00.89Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
