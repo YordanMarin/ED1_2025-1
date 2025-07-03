@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ED\\ED1_2025-1\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\clases\\grafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\grafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed1_2025-1\\ejercicios\\frmgrafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed1_2025-1\\ejercicios\\frmgrafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\ed\\ed1_2025-1\\ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmgrafofloyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed1_2025-1\\ejercicios\\clases\\grafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\grafoprim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmGrafoFloyd.cs",
-              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
-              "RelativeDocumentMoniker": "ejercicios\\frmGrafoFloyd.cs",
-              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
-              "RelativeToolTip": "ejercicios\\frmGrafoFloyd.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAApwDkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:01:22.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GrafoFloyd.cs",
-              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\clases\\GrafoFloyd.cs",
-              "RelativeDocumentMoniker": "ejercicios\\clases\\GrafoFloyd.cs",
-              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\clases\\GrafoFloyd.cs",
-              "RelativeToolTip": "ejercicios\\clases\\GrafoFloyd.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwD4AAAARAAAAAAAAAA==",
+              "Title": "FrmGrafoPrim.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\FrmGrafoPrim.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoPrim.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\FrmGrafoPrim.cs",
+              "RelativeToolTip": "ejercicios\\FrmGrafoPrim.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwDIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:25:27.218Z",
+              "WhenOpened": "2025-07-03T12:47:26.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmGrafoFloyd.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs",
-              "RelativeDocumentMoniker": "ejercicios\\frmGrafoFloyd.cs",
-              "ToolTip": "C:\\ED\\ED1_2025-1\\ejercicios\\frmGrafoFloyd.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\frmGrafoFloyd.cs [Dise\u00F1o]",
+              "Title": "GrafoPrim.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\clases\\GrafoPrim.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\GrafoPrim.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\clases\\GrafoPrim.cs",
+              "RelativeToolTip": "ejercicios\\clases\\GrafoPrim.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:23:00.89Z",
+              "WhenOpened": "2025-07-03T12:34:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGrafoPrim.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\FrmGrafoPrim.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmGrafoPrim.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED1_2025-1\\ejercicios\\FrmGrafoPrim.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmGrafoPrim.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:33:29.587Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

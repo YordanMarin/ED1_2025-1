@@ -195,6 +195,7 @@
             this.grafoPRIMToolStripMenuItem.Name = "grafoPRIMToolStripMenuItem";
             this.grafoPRIMToolStripMenuItem.Size = new System.Drawing.Size(368, 32);
             this.grafoPRIMToolStripMenuItem.Text = "Grafo PRIM";
+            this.grafoPRIMToolStripMenuItem.Click += new System.EventHandler(this.grafoPRIMToolStripMenuItem_Click);
             // 
             // Form1
             // 
